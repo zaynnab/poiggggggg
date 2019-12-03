@@ -1,0 +1,139 @@
+﻿@model Pidev.data.expenses
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style type="text/css">
+        body {
+            font-family: Arial;
+            font-size: 9pt;
+        }
+    </style>
+</head>
+<body>
+    <div id="Grid">
+        <dl class="dl-horizontal">
+            <dt>
+               Employé
+            </dt><dd>
+            Zeineb salah
+            </dd>
+
+
+
+            <dt>
+                Date-dépense
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.DateExpense)
+            </dd>
+            <dt></dt>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.NatureDepense)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.NatureDepense)
+            </dd>
+            <dt></dt>
+            <dt>
+                Totalité-jours
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.nbNuitete)
+            </dd>
+
+            <dt>
+                Moyene de Transport
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.moyTransport)
+            </dd>
+            <dt>
+                Distance parcourus
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.distance)
+            </dd>
+
+
+
+            <dt>
+                MontantTotal
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.MontantTotal)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.commentaire)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.commentaire)
+            </dd>
+
+
+
+
+
+
+            <dt>
+                Mission
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.mm_id_mission)
+            </dd>
+
+
+
+        </dl>
+    </div>
+    <dl class="dl-horizontal">
+
+        <dd>
+
+            @{string path = "~/Content/Upload/" + Model.Justificatif; }
+            <SPAN style="position: absolute; top:130px; right: 510px;width: 103px; height: 61px">
+                Justificatif :
+
+                <img src="@Url.Content(path)" />
+            </SPAN>
+
+        </dd>
+
+        </dl>
+
+
+        <br />
+        <br />
+
+
+        @using (Html.BeginForm("Export", "Depense", FormMethod.Post))
+        {
+            <input type="hidden" name="GridHtml" />
+            <input type="submit" id="btnSubmit" value="Export" />
+        }
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript">
+            $(function () {
+                $("#btnSubmit").click(function () {
+                    $("input[name='GridHtml']").val($("#Grid").html());
+                });
+            });
+        </script>
+        <p>
+
+            @Html.ActionLink("Back to List", "Index")
+        </p>
+</body></html>

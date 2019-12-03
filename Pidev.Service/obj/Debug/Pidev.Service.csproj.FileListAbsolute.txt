@@ -1,0 +1,100 @@
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Pidev.Service.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Pidev.Service.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Pidev.Domain.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Service.Pattern.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Pidev.Domain.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Service\obj\Debug\Pidev.Service.csprojAssemblyReference.cache
+C:\Users\essha\source\repos\Pidev\Pidev.Service\obj\Debug\Pidev.Service.csproj.CopyComplete
+C:\Users\essha\source\repos\Pidev\Pidev.Service\obj\Debug\Pidev.Service.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\obj\Debug\Pidev.Service.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Pidev.data.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\EntityFramework.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Pidev.data.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Pidev.data.dll.config
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\EntityFramework.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\MySql.Data.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Google.Protobuf.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Renci.SshNet.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\MySql.Data.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Google.Protobuf.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Service\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Pidev.Service.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Pidev.Service.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Service.Pattern.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Pidev.data.dll.config
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\obj\Debug\Pidev.Service.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\obj\Debug\Pidev.Service.csproj.CopyComplete
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\obj\Debug\Pidev.Service.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Service\obj\Debug\Pidev.Service.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Pidev.Service.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Pidev.Service.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Service.Pattern.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Pidev.data.dll.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\obj\Debug\Pidev.Service.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\obj\Debug\Pidev.Service.csproj.CopyComplete
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\obj\Debug\Pidev.Service.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Service\obj\Debug\Pidev.Service.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Pidev.Service.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Pidev.Service.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Service.Pattern.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Pidev.data.dll.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\obj\Debug\Pidev.Service.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\obj\Debug\Pidev.Service.csproj.CopyComplete
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\obj\Debug\Pidev.Service.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Service\obj\Debug\Pidev.Service.pdb

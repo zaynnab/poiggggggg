@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Presentation.Models.exp>
+<br />
+<p>
+    @Html.ActionLink("Ajouter une nouvelle dépense", "Create")
+</p><br />
+@using (Html.BeginForm())
+{<table>
+        <tr>
+            <td>
+                <div>
+                    Rechercher par Type: @Html.TextBox("searchString")
+
+                </div>
+            </td>
+            <td>                 <input type="submit" value="Search" id="submit" />             </td>
+        </tr>
+    </table>}
+
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.DateExpense)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NatureDepense)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.moyTransport)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MontantTotal)
+        </th>
+
+        <th>Gestion</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.DateExpense)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NatureDepense)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.moyTransport)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontantTotal)
+            </td>
+            =
+
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.id_Exp }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.id_Exp })  
+            </td>
+        </tr>
+    }
+
+</table>

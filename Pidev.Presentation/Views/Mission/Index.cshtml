@@ -1,0 +1,79 @@
+﻿
+
+@{
+    ViewBag.Title = "Gestion-mission";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            libelle
+        </th>
+
+        <th>
+            dateDu
+        </th>
+        <th>
+            dateFin
+        </th>
+
+
+        <th>
+            lieuMission
+        </th>
+        <th>
+            montantAlloue
+        </th>
+        <th>
+            motifMission
+        </th>
+        <th>
+            etat
+        </th>
+        <th></th>
+    </tr>
+    @if (ViewBag.TikTok != null)
+    {
+
+        foreach (var item in ViewBag.TikTok)
+
+        {
+            <tr>
+                <td>
+                    @item.libelle
+                </td>
+                <td>
+                    @item.dateDu
+                </td>
+                <td>
+                    @item.dateFin
+                </td>
+
+
+                <td>
+                    @item.lieuMission
+                </td>
+                <td>
+                    @item.montantAlloue
+                </td>
+                <td>
+                    @item.motifMission
+                </td>
+                <td>
+                    @item.etat
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=@item.id_mission}) |
+                    
+                    @Html.ActionLink("Delete", "Delete", new { id=@item.id_mission})
+                </td>
+            </tr>
+        }
+    }
+</table>
+

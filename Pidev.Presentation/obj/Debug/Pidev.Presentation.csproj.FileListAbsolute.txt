@@ -1,0 +1,516 @@
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.csprojAssemblyReference.cache
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Pidev.Presentation.dll.config
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Pidev.Presentation.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Pidev.Presentation.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\csc.exe
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\csc.exe.config
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\csc.rsp
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\csi.exe
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\csi.exe.config
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\csi.rsp
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Console.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\vbc.exe
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\vbc.rsp
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\BouncyCastle.Crypto.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\EntityFramework.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Google.Protobuf.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\MySql.Data.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\MySql.Data.EntityFramework.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Pidev.Domain.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Pidev.Service.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Renci.SshNet.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Service.Pattern.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Net.Http.Formatting.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Helpers.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Http.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Http.WebHost.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Mvc.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Optimization.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Razor.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.WebPages.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\WebGrease.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Pidev.data.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Pidev.Domain.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Pidev.Service.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Service.Pattern.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\EntityFramework.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Google.Protobuf.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\MySql.Data.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\MySql.Data.EntityFramework.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Renci.SshNet.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Helpers.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Mvc.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Optimization.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Razor.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.WebPages.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Net.Http.Formatting.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Http.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\System.Web.Http.WebHost.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Pidev.data.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\Pidev.data.dll.config
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\EntityFramework.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\System.Web.Razor.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\System.Web.Http.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.csproj.CopyComplete
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\mongocrypt.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\mongocrypt.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Pidev.Presentation.dll.config
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Pidev.Presentation.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Pidev.Presentation.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\csc.exe
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\csi.exe
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Crc32C.NET.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\DnsClient.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Google.Protobuf.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\MongoDB.Bson.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\MongoDB.Driver.Core.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\MongoDB.Libmongocrypt.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\MySql.Data.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\MySql.Data.EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Pidev.Service.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Renci.SshNet.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Service.Pattern.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\SharpCompress.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Snappy.NET.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Buffers.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Http.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\WebGrease.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Pidev.Service.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Service.Pattern.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Crc32C.NET.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\DnsClient.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\MongoDB.Bson.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\MongoDB.Driver.Core.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\MySql.Data.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\MySql.Data.EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Renci.SshNet.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Snappy.NET.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Buffers.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Http.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\Pidev.data.dll.config
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\EntityFramework.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.csproj.CopyComplete
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\itextsharp.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\itextsharp.xmlworker.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Presentation\bin\itextsharp.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\mongocrypt.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\mongocrypt.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Pidev.Presentation.dll.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Pidev.Presentation.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Pidev.Presentation.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\csc.exe
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\csi.exe
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Crc32C.NET.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\DnsClient.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Google.Protobuf.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\itextsharp.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\itextsharp.xmlworker.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\MongoDB.Bson.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\MongoDB.Driver.Core.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\MongoDB.Libmongocrypt.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\MySql.Data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\MySql.Data.EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Pidev.Service.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Renci.SshNet.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Service.Pattern.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\SharpCompress.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Snappy.NET.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Buffers.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Http.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\WebGrease.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Pidev.Service.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Service.Pattern.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Crc32C.NET.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\DnsClient.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\itextsharp.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\MongoDB.Bson.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\MongoDB.Driver.Core.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\MySql.Data.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\MySql.Data.EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Renci.SshNet.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Snappy.NET.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Buffers.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Http.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\Pidev.data.dll.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\EntityFramework.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.csproj.CopyComplete
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\mongocrypt.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\mongocrypt.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Pidev.Presentation.dll.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Pidev.Presentation.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Pidev.Presentation.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\csc.exe
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\csi.exe
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Crc32C.NET.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\DnsClient.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Google.Protobuf.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\itextsharp.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\itextsharp.xmlworker.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\MongoDB.Bson.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\MongoDB.Driver.Core.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\MongoDB.Libmongocrypt.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\MySql.Data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\MySql.Data.EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Pidev.Service.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Renci.SshNet.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Service.Pattern.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\SharpCompress.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Snappy.NET.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Buffers.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Http.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\WebGrease.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Pidev.Service.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Service.Pattern.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Crc32C.NET.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\DnsClient.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\itextsharp.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\MongoDB.Bson.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\MongoDB.Driver.Core.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\MySql.Data.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\MySql.Data.EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Renci.SshNet.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Snappy.NET.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Buffers.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Http.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\Pidev.data.dll.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\EntityFramework.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.csproj.CopyComplete
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Presentation\obj\Debug\Pidev.Presentation.pdb

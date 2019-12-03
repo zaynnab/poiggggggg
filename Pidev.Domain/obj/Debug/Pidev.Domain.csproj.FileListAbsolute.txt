@@ -1,0 +1,17 @@
+C:\Users\essha\source\repos\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.dll
+C:\Users\essha\source\repos\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.pdb

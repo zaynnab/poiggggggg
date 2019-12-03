@@ -1,0 +1,117 @@
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\Pidev.data.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\Pidev.data.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.data\obj\Debug\Pidev.data.csprojAssemblyReference.cache
+C:\Users\essha\source\repos\Pidev\Pidev.data\obj\Debug\Pidev.data.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\obj\Debug\Pidev.data.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\Pidev.Domain.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\Pidev.Domain.pdb
+C:\Users\essha\source\repos\Pidev\Pidev.data\obj\Debug\Pidev.data.csproj.CopyComplete
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\Pidev.data.dll.config
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\EntityFramework.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\Google.Protobuf.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\MySql.Data.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\Renci.SshNet.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\EntityFramework.xml
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\Google.Protobuf.xml
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\MySql.Data.xml
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\Renci.SshNet.xml
+C:\Users\essha\source\repos\Pidev\Pidev.data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\essha\source\repos\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.aa.resources
+C:\Users\essha\source\repos\Pidev\Pidev.data\obj\Debug\Pidev.data.csproj.GenerateResource.cache
+C:\Users\essha\source\repos\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.ahmed.resources
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\Pidev.data.dll.config
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\obj\Debug\Pidev.data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.cc.resources
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\obj\Debug\Pidev.data.csproj.GenerateResource.cache
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\obj\Debug\Pidev.data.csproj.CopyComplete
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\obj\Debug\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\obj\Debug\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.ccs.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\Pidev.data.dll.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.cc.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.ccs.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg0.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg00.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.csproj.GenerateResource.cache
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.csproj.CopyComplete
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg000.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg0000.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\Pidev.data.dll.config
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\Pidev.data.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\Pidev.Domain.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\Pidev.Domain.pdb
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.cc.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.ccs.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg0.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg00.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg000.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg0000.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.csproj.GenerateResource.cache
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.csproj.CopyComplete
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.dll
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.pdb
