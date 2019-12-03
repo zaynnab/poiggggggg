@@ -111,6 +111,7 @@ C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debu
 C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg00.resources
 C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg000.resources
 C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.gg0000.resources
+C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.Migrations.qs.resources
 C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.csproj.GenerateResource.cache
 C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.csproj.CopyComplete
 C:\Users\User\Desktop\prjt wlid\zeineb\Nouveau dossier\Pidev\Pidev.data\obj\Debug\Pidev.data.dll

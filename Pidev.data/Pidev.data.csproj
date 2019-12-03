@@ -109,6 +109,10 @@
     <Compile Include="Migrations\201912012015070_gg0000.Designer.cs">
       <DependentUpon>201912012015070_gg0000.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201912031208398_qs.cs" />
+    <Compile Include="Migrations\201912031208398_qs.Designer.cs">
+      <DependentUpon>201912031208398_qs.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Migrations\myMigrationSQLGenerator.cs" />
     <Compile Include="MyContext.cs" />
@@ -145,6 +149,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201912012015070_gg0000.resx">
       <DependentUpon>201912012015070_gg0000.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912031208398_qs.resx">
+      <DependentUpon>201912031208398_qs.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

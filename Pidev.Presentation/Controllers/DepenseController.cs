@@ -20,6 +20,7 @@ namespace Pidev.Presentation.Controllers
     {
         IMissionService pp = null;
         IExpensesService expService = null;
+
         public DepenseController()
         {
             expService = new ExpensesService();
@@ -33,7 +34,7 @@ namespace Pidev.Presentation.Controllers
             IEnumerable<expenses> expDomain = expService.GetMany();
             if (!String.IsNullOrEmpty(searchString))
             {
-               expDomain = expService.GetexpByType(searchString);
+                expDomain = expService.GetexpByType(searchString);
             }
             foreach (var dep in expDomain)
             {
@@ -94,15 +95,21 @@ namespace Pidev.Presentation.Controllers
         // GET: Expense/Create
         public ActionResult Create()
         {
-            var missions = pp.GetMany();
-            ViewBag.listmiss = new SelectList(missions, "id_mission", "libelle");
+            var missions = pp.GetMany().ToList();
+
+            ViewBag.listmiss = new SelectList(missions, "libelle", "libelle");
+            ViewBag.listmiss = missions;
             return View();
         }
 
         // POST: Expense/Create
         [HttpPost]
-        public ActionResult Create(exp dep, HttpPostedFileBase file)
+        public ActionResult Create(expenses d, HttpPostedFileBase file, int abc)
         {
+            var missions = pp.GetMany().ToList();
+
+            ViewBag.listmiss = new SelectList(missions, "libelle", "libelle");
+            ViewBag.listmiss = missions;
             if (!ModelState.IsValid || file == null || file.ContentLength == 0)
             {
                 RedirectToAction("Create");
@@ -116,27 +123,29 @@ namespace Pidev.Presentation.Controllers
                 file.SaveAs(path);
             }
             //var MissionId = expenses.Equals.
-            expenses d = new expenses()
-            {
-                DateExpense = dep.DateExpense,
-                NatureDepense = (Nature)dep.NatureDepense,
-                nbNuitete = dep.nbNuitete,
-                moyTransport = (Moyene)dep.moyTransport,
-                distance = dep.distance,
-                Justificatif = file.FileName,
-                MontantTotal = dep.MontantTotal,
-                commentaire = dep.commentaire,
-                mm_id_mission = dep.mm_id_mission
+            //expenses d = new expenses()
+            //{
+            //    DateExpense = dep.DateExpense,
+            //    NatureDepense = (Nature)dep.NatureDepense,
+            //    nbNuitete = dep.nbNuitete,
+            //    moyTransport = (Moyene)dep.moyTransport,
+            //    distance = dep.distance,
+            //    Justificatif = file.FileName,
+            //    MontantTotal = dep.MontantTotal,
+            //    commentaire = dep.commentaire,
+            //    mm_id_mission = dep.mm_id_mission
 
-            };
+            //};
+
+
+            d.mm_id_mission = abc;
             expService.Add(d);
             expService.Commit();
-            // expService.Dispose();   //  @Html.DropDownList("m_id_mission", (SelectList)ViewData["listmiss"])
+            // expService.Dispose();   //  @Html.DropDownList("m_id_mission", (SelectList)ViewData["listmiss
 
 
 
 
-          
             string subject = "sssssssssssssssssssss";
 
             string body = "bbbbbbbbbbbbbbbbbbbbbbbbb" +
@@ -149,7 +158,7 @@ namespace Pidev.Presentation.Controllers
                 EnableSsl = true,
                 DeliveryMethod = SmtpDeliveryMethod.Network,
                 UseDefaultCredentials = true,
-                Credentials = new NetworkCredential("zeineb.salah@esprit.tn","esprit2018"),
+                Credentials = new NetworkCredential("zeineb.salah@esprit.tn", "esprit2018"),
                 Timeout = 20000
             };
             MailMessage p = new MailMessage("zeineb.salah@esprit.tn", "zeineb.salah@esprit.tn");
@@ -158,8 +167,8 @@ namespace Pidev.Presentation.Controllers
             p.Body = body;
             p.IsBodyHtml = true;
 
-          
-                smtp.Send(p);
+
+            smtp.Send(p);
 
 
             return RedirectToAction("Index");
@@ -194,28 +203,30 @@ namespace Pidev.Presentation.Controllers
         // GET: Expense/Delete/5
         public ActionResult Delete(int id)
         {
-        if (id == null)
-                        return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
-                    expenses dep = expService.GetById(id);
-                    exp evt = new exp()
-                    {
-                        DateExpense = dep.DateExpense,
-                        NatureDepense = (NatureVM)dep.NatureDepense,
-                        nbNuitete = dep.nbNuitete,
-                        moyTransport = (MoyeneVM)dep.moyTransport,
-                        distance = dep.distance,
-                        Justificatif = dep.Justificatif,
-                        MontantTotal = dep.MontantTotal,
-                        commentaire = dep.commentaire,
-                        mm_id_mission = dep.mm_id_mission
 
-                    };
-                    if (dep == null)
-                        return HttpNotFound();
+            if (id == null)
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            expenses dep = expService.GetById(id);
+            exp p = new exp()
+            {
+                DateExpense = dep.DateExpense,
+                NatureDepense = (NatureVM)dep.NatureDepense,
+                nbNuitete = dep.nbNuitete,
+                moyTransport = (MoyeneVM)dep.moyTransport,
+                distance = dep.distance,
+                Justificatif = dep.Justificatif,
+                MontantTotal = dep.MontantTotal,
+                commentaire = dep.commentaire,
+                mm_id_mission = dep.mm_id_mission
 
-                    return View(evt);
-                }
-        
+            };
+
+            if (dep == null)
+                return HttpNotFound();
+            expService.Delete(dep);
+            expService.Commit();
+            return View(p);
+        }
 
 
 

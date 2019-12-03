@@ -13,15 +13,15 @@ namespace Presentation.Models
     public enum NatureVM { Visa, Logement, Hotel, Repas, Voyage }
     public partial class exp
     {
-       
+
         public int id_Exp { get; set; }
         [Required]
 
-      
+
         [DataType(DataType.DateTime)]
         public DateTime? DateExpense { get; set; }
         public NatureVM NatureDepense { get; set; }
-     
+
 
         [Display(Name = "Les jours")]
 
@@ -33,8 +33,8 @@ namespace Presentation.Models
         public float distance { get; set; }
         [Required]
 
-       
-    
+
+
         public float MontantTotal { get; set; }
         [StringLength(255)]
         public string commentaire { get; set; }
@@ -47,9 +47,9 @@ namespace Presentation.Models
         {
             get; set;
         }
-       
+
         public virtual ICollection<SelectListItem> missions { get; set; }
     }
 
-    }
+}
 

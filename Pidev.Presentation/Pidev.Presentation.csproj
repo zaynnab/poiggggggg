@@ -1908,6 +1908,7 @@
     <Content Include="Views\Depense\Index.cshtml" />
     <Content Include="Views\Depense\Delete.cshtml" />
     <Content Include="Views\Frais\Index.cshtml" />
+    <Content Include="Views\Frais\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

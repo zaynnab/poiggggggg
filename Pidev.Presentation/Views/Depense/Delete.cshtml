@@ -5,13 +5,7 @@
     <h4>exp</h4>
     <hr />
     <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.id_Exp)
-        </dt>
 
-        <dd>
-            @Html.DisplayFor(model => model.id_Exp)
-        </dd>
 
         <dt>
             @Html.DisplayNameFor(model => model.DateExpense)
@@ -71,7 +65,8 @@
 
     </dl>
 
-    @using (Html.BeginForm()) {
+    @using (Html.BeginForm())
+    {
         @Html.AntiForgeryToken()
 
         <div class="form-actions no-color">

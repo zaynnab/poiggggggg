@@ -32,7 +32,7 @@ namespace Pidev.data
                       .WithOptional(e => e.account)
                       .HasForeignKey(e => e.account_id);
 
-         
+
 
             modelBuilder.Entity<expenses>()
                 .Property(e => e.commentaire)
@@ -97,11 +97,11 @@ namespace Pidev.data
             modelBuilder.Entity<mission>()
                 .Property(e => e.motifMission)
                 .IsUnicode(false);
-          modelBuilder.Entity<expenses>().
-                HasOptional(f => f.mission).
-             WithMany(p => p.expenses).
-             
-             WillCascadeOnDelete(false);
+            modelBuilder.Entity<expenses>().
+                  HasOptional(f => f.mission).
+               WithMany(p => p.expenses).
+
+               WillCascadeOnDelete(false);
 
             modelBuilder.Entity<mission>()
                 .HasMany(e => e.expenses)
@@ -157,3 +157,4 @@ namespace Pidev.data
         }
     }
 }
+

@@ -32,7 +32,7 @@ namespace Pidev.Presentation.Controllers
             {
                 maliste.Add(new fraiVM
                 {
-                    //id_frais = vv.id_frais,
+                    id_frais = vv.id_frais,
                     libelle = vv.libelle,
                     DTreat = (DateTime)vv.DTreat,
                     NetRemb = vv.NetRemb,
@@ -131,7 +131,10 @@ namespace Pidev.Presentation.Controllers
 
             if (p == null)
                 return HttpNotFound();
-            return View();
+            a.Delete(p);
+            a.Commit();
+
+            return View(p1);
         }
 
 
